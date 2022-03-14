@@ -1,0 +1,26 @@
+- profile:
+  initials: RH
+  name: Robin Heinze
+  profession: Software Engineer
+  image: images/profile.jpg
+  location: Portland, OR, USA
+  relocation: false
+  company: Infinite Red
+  for_hire: false
+  focus: React Native
+  focus_url: infinite.red/reactnative
+  about: |
+    Analytical software engineer with a passion for leadership and a talent for communication and over 8 years of hands-on experience building high-quality software for mobile and web.
+  skills:
+    - React Native / React.js
+    - JavaScript
+    - Ruby on Rails
+  tools:
+    - GitHub
+    - JIRA
+    - VSCode
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

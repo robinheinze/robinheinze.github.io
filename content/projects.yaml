@@ -1,0 +1,8 @@
+- name: Ignite
+  url: https://github.com/infinitered/ignite
+  description: The premiere React Native boilerplate, built by Infinite Red
+  status: in progress
+  tags:
+    - JavaScript
+    - React Native
+  icon: github
