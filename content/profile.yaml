@@ -8,7 +8,7 @@
   company: Infinite Red
   for_hire: false
   focus: React Native
-  focus_url: infinite.red/reactnative
+  focus_url: false
   about: |
     Analytical software engineer with a passion for leadership and a talent for communication and over 8 years of hands-on experience building high-quality software for mobile and web.
   skills:
@@ -17,8 +17,8 @@
     - Ruby on Rails
   tools:
     - GitHub
-    - JIRA
     - VSCode
+    - Slack
   budget:
     currency: $
     min: 5

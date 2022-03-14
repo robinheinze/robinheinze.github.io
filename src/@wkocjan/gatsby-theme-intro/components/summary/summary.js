@@ -20,7 +20,7 @@ const Summary = ({ profile }) => (
             profile.for_hire ? "green" : "red"
           }-500`}
         ></span>
-        {`${profile.for_hire ? "" : "Not"} looking for new roles`}
+        {`${profile.for_hire ? "" : "Not"} looking`}
       </div>
     </div>
     <div className="w-1/2 pl-4 lg:pl-12">
