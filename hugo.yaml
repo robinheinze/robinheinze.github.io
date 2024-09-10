@@ -1,0 +1,24 @@
+baseURL: https://robinheinze.dev/
+languageCode: en-us
+title: Robin Heinze
+theme: ["PaperMod"]
+params:
+  assets:
+    favicon: "favicon.png"
+  profileMode:
+    enabled: true
+    title: "Robin Heinze"
+    subtitle: "Software Engineer, Engineering Leader"
+    imageUrl: "https://pbs.twimg.com/profile_images/1672296775858941952/XGtuG5y4_400x400.jpg"
+    buttons:
+      - name: Media
+        url: "/media"
+      - name: About
+        url: "/about"
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/robinheinze"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/robin-heinze/"
+    - name: "twitter"
+      url: "https://twitter.com/robinheinze"
