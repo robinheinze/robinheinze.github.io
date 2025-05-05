@@ -15,7 +15,7 @@ Starting apps from scratch can feel a little sour, but with 9 years of React Nat
 
 [![Watch the video](https://img.youtube.com/vi/dNWkJOpD6YE/maxresdefault.jpg)](https://www.youtube.com/watch?v=dNWkJOpD6YE)
 
-## Podcasts
+## Podcasts and YouTube
 
 ### React Native Radio
 
@@ -36,9 +36,28 @@ I join Robby Russell to talk about software, tech debt, consulting, and life.
 
 May 2024
 
-["React Native with Robin Heinze"](https://syntax.fm/show/773/react-native-with-robin-heinze)
+["React Native with Robin Heinze"](https://www.youtube.com/watch?v=0NIctHvfH10)
+
+[![Watch the video](https://img.youtube.com/vi/0NIctHvfH10/maxresdefault.jpg)](https://www.youtube.com/watch?v=0NIctHvfH10)
 
 Scott and Wes dish out a feast with Robin Heinze from Infinite Red, diving into the world of React Native. They discuss how React Native differs from other webview platforms, highlight popular apps built with it, and serve up essential tools and libraries to spice up every React Native project.
+
+### GitKraken
+
+February 2025
+
+Unexpected Approaches to Managing Teams w/ Robin Heinze | Software is a Team Sport Ep. 2
+
+[![Watch the video](https://img.youtube.com/vi/ZWfYw_fjMh0/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZWfYw_fjMh0)
+
+I sat down with Chris Griffing at GitKraken to talk about all facets of working with teams in engineering, specifically:
+
+- Making code reviews easier and more effective
+- Navigating the shift from individual contributor to managerial roles
+- Strategies for onboarding new team members
+- Adapting team size to meet project requirements
+- How to reduce meeting overload
+
 
 ## Other Media
 
